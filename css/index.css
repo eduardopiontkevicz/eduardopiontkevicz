@@ -5,21 +5,11 @@ header {
     border-bottom: 10px solid #000;
     border-width: 10px;
     padding: 10px 20px;
-
 }
 
 nav {
     text-align: right;
 }
-
-h1 {
-    display: inline-block;
-    font-family: "Press Start 2P";
-    padding: 18px 20px;
-    color: #fff;
-    text-shadow: 5px 5px 0px #000;
-}
-
 
  a {
     display: inline-flex;
@@ -50,14 +40,13 @@ a::before {
     display: inline-block;
     background-color: #F25A70;
     box-shadow: 5px 5px 0px #000;
-    padding: 18px 20px;
-    margin-right: 0;
-    transition: transform 40ms linear, opacity 500ms ease-in-out;
+    padding: 15px 20px;
+    margin-right: 30px;
+    transition: transform 40ms linear;
 }
 
 #button:hover {
-    transform: scale(1.03);
-    opacity: 0.95;    
+    transform: scale(1.03);   
 }
 
 #contact {
@@ -75,21 +64,19 @@ h2 {
     background-color: #5e6472;
     text-align: center;
     padding: 15px 30px 30px 30px;
-
     box-shadow: 5px 5px 0px #000;
 }
 
-p {
-    font-size: 30px;
-    font-family: "Press Start 2P";
-    padding-bottom: 20px;
-    color: #F25A70;
-    text-shadow: 3px 3px 0px #000;
-}
 
 p1 {
     font-size: 30px;
     font-family: "Press Start 2P";
     color: #fff;
     text-shadow: 3px 3px 0px #000;
+}
+
+
+p {
+    color: #fff;
+    font-size: 30px;
 }
