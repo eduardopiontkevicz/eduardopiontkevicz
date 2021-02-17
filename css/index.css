@@ -57,17 +57,6 @@ div {
     display: inline-block;
 }
 
-h2 {
-    display: inline-block;
-    margin-top: 116px;
-    margin-left: 91px;
-    background-color: #5e6472;
-    text-align: center;
-    padding: 15px 30px 30px 30px;
-    box-shadow: 5px 5px 0px #000;
-}
-
-
 p1 {
     font-size: 30px;
     font-family: "Press Start 2P";
@@ -75,8 +64,8 @@ p1 {
     text-shadow: 3px 3px 0px #000;
 }
 
-
 p {
     color: #fff;
     font-size: 30px;
 }
+
