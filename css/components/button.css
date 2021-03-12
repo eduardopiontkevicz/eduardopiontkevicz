@@ -6,6 +6,7 @@
     margin-right: 30px;
     transition: transform 40ms linear;
     font-family: "Fira Code";
+    text-decoration: none;
 }
 
 .button:hover {
