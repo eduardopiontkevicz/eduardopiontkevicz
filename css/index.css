@@ -1,55 +1,5 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #5e6472;
-    border-bottom: 10px solid #000;
-    border-width: 10px;
-    padding: 10px 20px;
-}
-
 nav {
     text-align: right;
-}
-
- a {
-    display: inline-flex;
-    align-items: center;
-    color:#fff;
-    font-family: "Fira Code", Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    font-weight: 500;
-    text-decoration: none;
-    margin-right: 30px;
-    transition: transform 50ms linear;
-}
-    
-a:hover {
-    transform: scale(1.02);
-}
-
-a::before {
-    content: "";
-    background-color: #f07167;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-}
-
-#button {
-    display: inline-block;
-    background-color: #F25A70;
-    box-shadow: 5px 5px 0px #000;
-    padding: 15px 20px;
-    margin-right: 30px;
-    transition: transform 40ms linear;
-}
-
-#button:hover {
-    transform: scale(1.03);   
-}
-
-#contact {
-    margin-right: 100px;
 }
 
 div {
