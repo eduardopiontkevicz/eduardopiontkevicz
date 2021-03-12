@@ -1,6 +1,7 @@
 .button {
     display: inline-block;
     background-color: #F25A70;
+    color: #fff;
     box-shadow: 5px 5px 0px #000;
     padding: 15px 20px;
     margin-right: 30px;
