@@ -1,0 +1,4 @@
+.title .skills {
+    display: flex;
+    flex-direction: column;
+}
