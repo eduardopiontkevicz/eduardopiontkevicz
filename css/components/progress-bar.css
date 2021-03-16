@@ -4,6 +4,7 @@
     border: 5px solid #000;
     height: 40px;
     width: 350px;
+    margin-top: 16px;
 }
     
 .progress-bar::-moz-progress-bar,
