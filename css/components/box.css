@@ -6,13 +6,14 @@
     padding: 42px 0px;
 }
 
-#box h1 {
+#box h2 {
     margin-bottom: 28px;
-    margin-left: 90px;
-    margin-right: 90px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
-#box h2 {
+#box h3 {
     padding-left: 10px;
     padding-right: 10px;
+
 }
