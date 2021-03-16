@@ -1,12 +1,12 @@
-h1 {
+.title {
     color:#F25A70; 
     font-family: "Press Start 2P", sans-serif;
     font-size: 40px;
     text-shadow: 3px 3px 0px #000;
 }
 
-.skills {
-    color: #fff;
-    font-size: 40px;
+.title.-second {
+    color: #000;
+    text-shadow: none;
     text-align: center;
 }
