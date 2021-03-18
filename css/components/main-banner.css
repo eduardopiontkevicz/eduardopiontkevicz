@@ -1,6 +1,6 @@
 .main-banner {
     box-sizing: border-box;
-    background-image: url(../../assets/back.jpg);
+    background-image: url(../../assets/background_luna.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 900px;
@@ -14,7 +14,7 @@
 .main-banner .wrapper {
     display: flex;
     flex-direction: column;
-    width: 700px;
+    width: 500px;
 }
 
 .main-banner #main-box {
