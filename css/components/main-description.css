@@ -1,6 +1,8 @@
-.description {
+.main-description {
     padding-left: 80px;
     padding-right: 80px;
     font-family: "Fira Code", sans-serif;
     font-size: 30px;
+    font-weight: 300;
+    line-height: 1.3;
 }
