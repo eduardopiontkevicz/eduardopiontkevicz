@@ -1,4 +1,4 @@
-#box {
+#main-box {
     display: inline-block;
     background-color: #5e6472;
     box-shadow: 10px 10px 0px #000;
@@ -6,13 +6,13 @@
     padding: 42px 0px;
 }
 
-#box h2 {
+#main-box h2 {
     margin-bottom: 28px;
     margin-left: 20px;
     margin-right: 20px;
 }
 
-#box h3 {
+#main-box h3 {
     padding-left: 10px;
     padding-right: 10px;
 
