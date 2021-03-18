@@ -5,12 +5,11 @@
     border-bottom: 10px solid #7C5E99;
 }
 
-.section.-second {
+.section.-bgBlack {
     background-color: #000;
     border-bottom: 10px solid #F25A70;
 }
 
-.section.-third {
-    background-color: #7C5E99;
-    border-bottom: 10px solid #000;
+.section .-bdFirst {
+    border color: #F25A70;
 }
