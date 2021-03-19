@@ -1,6 +1,7 @@
 .wrapper-card {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    
 }
 
 .wrapper-card .card-project:hover {
