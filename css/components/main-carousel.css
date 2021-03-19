@@ -51,6 +51,5 @@
     display: flex;
     justify-content: space-between;
     transform: translateX(0px);
-    overflow: hidden;
     transition: transform 100ms ease-in-out;
 }
