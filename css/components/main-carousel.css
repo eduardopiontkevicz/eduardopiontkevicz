@@ -4,6 +4,7 @@
     position: relative;
     padding-right: 80px;
     padding-left: 80px;
+    max-width: 100%;
 }
 
 .main-carousel::after {
