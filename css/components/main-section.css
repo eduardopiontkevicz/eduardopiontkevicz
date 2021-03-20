@@ -25,20 +25,5 @@
 
 .main-section.-bgGrey {
     background-color: grey;
+    border: 0;
 }
-
-.main-section.-footer {
-    display: flex;
-    justify-content: center;    
-    padding-top: 28px;
-    padding-bottom: 28px;
-    border-bottom: 0;
-    background-color: black;
-}
-
-.footer {
-    display: flex;
-    width: 215px;
-    justify-content: space-between;
-}
-

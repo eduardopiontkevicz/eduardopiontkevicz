@@ -1,0 +1,24 @@
+.main-footer { 
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.main-footer.-bgBlack {
+    padding-top: 28px;
+    padding-bottom: 28px;
+    width: 215px;
+    justify-content: space-between;
+}
+
+.twitter:hover {
+    transform: scale(1.05);
+}
+
+.youtube:hover {
+    transform: scale(1.05);
+}
+
+.discord:hover {
+    transform: scale(1.05);
+}
