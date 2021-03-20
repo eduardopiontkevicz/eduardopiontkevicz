@@ -12,3 +12,7 @@
 .main-button:hover {
     transform: scale(1.03);   
 }
+
+.main-button.-send {
+    width: 100%;
+}
