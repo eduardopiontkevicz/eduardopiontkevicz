@@ -39,14 +39,16 @@
 
     <body>
         <header class="main-header">
+            <a href="index.html">
             <img class="avatar" src="assets/logo2.jpg" alt="Avatar">
-        
+            </a>
 
             <nav>
-                <a class="main-action" href="" lang="en">Skills</a>
-                <a class="main-action" href="">Projetos</a>
-                <a class="main-action" href="">Sobre</a>
-                <a class="main-action" href="">Contatos</a>
+                <a class="main-action" href="index.html" lang="en">Home</a>
+                <a class="main-action" href="html/skills.html" lang="en">Skills</a>
+                <a class="main-action" href="html/projects.html">Projetos</a>
+                <a class="main-action" href="html/about.html">Sobre</a>
+                <a class="main-action" href="html/contact.html">Contato</a>
                 <a class="main-button" href="" lang="en">Download CV</a>
             </nav>
         </header>
@@ -55,12 +57,12 @@
             <div class="wrapper">
                 <div id="main-box">
                     <h2 class="main-title">Eduardo Piontkevicz</h2>
-                    <h3 class="main-subtitle">Developer</h3>
+                    <h3 class="main-subtitle">Front-End Developer</h3>
                 </div>
             
                 <div class="navigation">
                     <a class="main-button" href="" lang="en">Download CV</a>
-                    <a class="main-button" href="">Contatos</a>
+                    <a class="main-button" href="html/contact.html">Contato</a>
                 </div>
             </div>
         </section>
@@ -173,7 +175,7 @@
             <h2 class="main-title -second">Sobre</h2>
             
             <section class="main-carousel">
-                <button class="button-arrow -left"><span class="content">Voltar</ class></button>
+                <button class="button-arrow -left"><span class="content">Voltar</span></button>
                 <div class="items">
                     <div class="elements">
                         <figure class="node-card">
@@ -228,10 +230,10 @@
         </section>
 
         <section class="main-section -bgGrey">
-            <h2 class="main-title -second">Contatos</h2>
+            <h2 class="main-title -second">Contato</h2>
             <div class="main-label">
                 <form>
-                    <labelfor="name">Nome</label>
+                    <label for="name">Nome</label>
                     <input class="main-input" id="name" type="text" required>
 
                     <label for="email">E-mail</label>
@@ -263,5 +265,6 @@
         </footer>
 
         <script src="js/components/main-carousel.js"></script>
+        <script src="js/components/calculator.js"></script>
     </body>
 </html>
